@@ -53,6 +53,11 @@ if (isset($_POST['knop'])
 			<?php echo gebruikers($users) ?>
 		</tr>
 	</table>
+	<style>
+	table, th, td {
+		border: 1px solid black;
+	}
+	</style>
 </body>
 </html>
 

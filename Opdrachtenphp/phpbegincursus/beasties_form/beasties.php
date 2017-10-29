@@ -27,15 +27,19 @@
 </form>
 <br><br><br> -->
 
-[Opdracht 2]
+Kies je favoriete dier(en) uit en klik op 'submit' en ik laat je plaatje(s) zien van je uitgekozen dier(en)! <br><br>
 
 <form action="form.php" method="get">
-  <input type="checkbox" name="hond" value="test"> Hond<br>
-  <input type="checkbox" name="kat" value="test2" checked> Kat<br>
-<!--   <input type="checkbox" name="aap" value="" checked> Aap<br>
-  <input type="checkbox" name="beer" value="" checked> Beer<br> -->
+  <input type="checkbox" name="hond" value="test"> Huskey<br>
+  <input type="checkbox" name="kat" value="" checked> Kat<br>
+  <input type="checkbox" name="aap" value="" checked> Aap<br>
+  <input type="checkbox" name="beer" value="" checked> Beer<br>
   <input type="submit" value="Submit">
 </form>
+<?php 
+
+
+?>
 
 </body>
 </html>
