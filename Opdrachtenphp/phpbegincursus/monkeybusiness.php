@@ -3,10 +3,8 @@
 // gwn a href met de link + naam. EZ
 // 
 
-echo "test 4";
-echo "test 4";
-echo "test 4";
-echo "test 4";	
+echo "test 5";
+
 
 
  ?>
