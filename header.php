@@ -31,22 +31,22 @@
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HTML<span class="caret"></span></a>
 						<ul class="dropdown-menu">
-							<li><a href="Database/register.php">Database</a></li>
-							<li><a href="Slice&dice/Dice.html">Dice Game</a></li>
-							<li><a href="Opdrachtenhtml/opdracht01/opdracht1.php">Opdracht 1</a></li>
-							<li><a href="Opdrachtenhtml/opdracht02/opdracht2.php">Opdracht 2</a></li>
-							<li><a href="Opdrachtenhtml/opdracht03/opdracht3.html"> Opdracht 3 </a></li>
-							<li><a href="Opdrachtenhtml/opdracht04/opdracht4.html"> Opdracht 4 </a></li>
-							<li><a href="Opdrachtenhtml/opdracht05/opdracht5.html"> Opdracht 5 </a></li>
-							<li><a href="Opdrachtenhtml/opdracht06/opdracht6.html"> Opdracht 6 </a></li>
-							<li><a href="Opdrachtenhtml/opdracht07/opdracht7.html"> Opdracht 7 </a></li>
-							<li><a href="Opdrachtenhtml/opdracht08/opdracht8.php"> Opdracht 8 </a></li>
-							<li><a href="Opdrachtenhtml/opdracht09/opdracht9.php"> Opdracht 9 </a></li>
-							<li><a href="Opdrachtenhtml/opdracht10.php"> Opdracht 10 </a></li>
-							<li><a href="Opdrachtenhtml/Project/contact.html"> Project </a></li>
-							<li><a href="Opdrachtenhtml/bierhier/home.html"> Project Final </a></li>
-							<li><a href="Opdrachtenbootstrap/index.html"> Bootstrap </a></li>
-							<li><a href="Challenge/challenge.html"> Challenge </a></li>
+							<li><a href="Database/register.php" target="_blank">Database</a></li>
+							<li><a href="Slice&dice/Dice.html" target="_blank">Dice Game</a></li>
+							<li><a href="Opdrachtenhtml/opdracht01/opdracht1.php" target="_blank">Opdracht 1</a></li>
+							<li><a href="Opdrachtenhtml/opdracht02/opdracht2.php" target="_blank">Opdracht 2</a></li>
+							<li><a href="Opdrachtenhtml/opdracht03/opdracht3.html" target="_blank"> Opdracht 3 </a></li>
+							<li><a href="Opdrachtenhtml/opdracht04/opdracht4.html" target="_blank"> Opdracht 4 </a></li>
+							<li><a href="Opdrachtenhtml/opdracht05/opdracht5.html" target="_blank"> Opdracht 5 </a></li>
+							<li><a href="Opdrachtenhtml/opdracht06/opdracht6.html" target="_blank"> Opdracht 6 </a></li>
+							<li><a href="Opdrachtenhtml/opdracht07/opdracht7.html" target="_blank"> Opdracht 7 </a></li>
+							<li><a href="Opdrachtenhtml/opdracht08/opdracht8.php" target="_blank"> Opdracht 8 </a></li>
+							<li><a href="Opdrachtenhtml/opdracht09/opdracht9.php" target="_blank"> Opdracht 9 </a></li>
+							<li><a href="Opdrachtenhtml/opdracht10.php" target="_blank"> Opdracht 10 </a></li>
+							<li><a href="Opdrachtenhtml/Project/contact.html" target="_blank"> Project </a></li>
+							<li><a href="Opdrachtenhtml/bierhier/home.html" target="_blank"> Project Final </a></li>
+							<li><a href="Opdrachtenbootstrap/index.html" target="_blank"> Bootstrap </a></li>
+							<li><a href="Challenge/challenge.html" target="_blank"> Challenge </a></li>
 						</ul>
 					</li>
 
@@ -54,17 +54,17 @@
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PHP<span class="caret"></span></a>
 						<ul class="dropdown-menu">
-							<li><a href="opdrachtenphp/phpbegincursus/main.php"> Kerstboom </a></li>
-							<li><a href="opdrachtenphp/phpbegincursus/zwemclubs.php"> Zwemclubs </a> </li>
-							<li><a href="opdrachtenphp/phpbegincursus/kapperszaak.php"> Kapperszaak </a> </li>
-							<li><a href="opdrachtenphp/phpbegincursus/functies.php"> Functies </a></li>
-							<li><a href="opdrachtenphp/phpbegincursus/include/main.php"> Includes </a></li>
-							<li><a href="opdrachtenphp/phpbegincursus/Dynamisch_Form/dynamisch.php"> Dynamish </a></li>
-							<li><a href="opdrachtenphp/phpbegincursus/beasties_form/beasties.php"> Beasties </a></li>
-							<li><a href="opdrachtenphp/phpbegincursus/loginFormulier.php"> Login Formulier </a></li>
-							<li><a href="opdrachtenphp/phpbegincursus/login/login.php"> Login Pagina </a></li>
-							<li><a href="opdrachtenphp/phpbegincursus/class_method/index.php"> Object Oriented Programming </a></li>
-							<li><a href="opdrachtenphp/phpbegincursus/monkeybusiness/monkeybusiness.php"> Monkey Business </a></li>
+							<li><a href="opdrachtenphp/phpbegincursus/main.php" target="_blank"> Kerstboom </a></li>
+							<li><a href="opdrachtenphp/phpbegincursus/zwemclubs.php" target="_blank"> Zwemclubs </a> </li>
+							<li><a href="opdrachtenphp/phpbegincursus/kapperszaak.php" target="_blank"> Kapperszaak </a> </li>
+							<li><a href="opdrachtenphp/phpbegincursus/functies.php" target="_blank"> Functies </a></li>
+							<li><a href="opdrachtenphp/phpbegincursus/include/main.php" target="_blank"> Includes </a></li>
+							<li><a href="opdrachtenphp/phpbegincursus/Dynamisch_Form/dynamisch.php" target="_blank"> Dynamish </a></li>
+							<li><a href="opdrachtenphp/phpbegincursus/beasties_form/beasties.php" target="_blank"> Beasties </a></li>
+							<li><a href="opdrachtenphp/phpbegincursus/loginFormulier.php" target="_blank"> Login Formulier </a></li>
+							<li><a href="opdrachtenphp/phpbegincursus/login/login.php" target="_blank"> Login Pagina </a></li>
+							<li><a href="opdrachtenphp/phpbegincursus/class_method/index.php" target="_blank"> Object Oriented Programming </a></li>
+							<li><a href="opdrachtenphp/phpbegincursus/monkeybusiness/monkeybusiness.php" target="_blank"> Monkey Business </a></li>
 						</ul>
 					</li>
 
@@ -93,8 +93,8 @@
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pauze<span class="caret"></span></a>
 						<ul class="dropdown-menu">
-							<li><a href="https://www.youtube.com/">Youtube</a></li>
-							<li><a href="http://www.surrenderat20.net/">Surrenderat20</a></li>
+							<li><a href="https://www.youtube.com/" target="_blank">Youtube</a></li>
+							<li><a href="http://www.Surrenderat20enderat20.net/" target="_blank">Surrenderat20</a></li>
 						</ul>
 					</li>
 				</ul>
