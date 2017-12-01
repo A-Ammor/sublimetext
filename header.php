@@ -64,16 +64,39 @@
 							<li><a href="opdrachtenphp/phpbegincursus/login/login.php" target="_blank"> Login Pagina </a></li>
 							<li><a href="opdrachtenphp/phpbegincursus/class_method/index.php" target="_blank"> Object Oriented Programming </a></li>
 							<li><a href="opdrachtenphp/phpbegincursus/monkeybusiness/monkeybusiness.php" target="_blank"> Monkey Business </a></li>
+							<li><a href="opdrachtenphp/phpbegincursus/mrwheely/mrhweely.php" target="_blank"> Mr Wheely </a></li>
+						</div>
+					</div> 
+
+					<div class="dropdown">
+						<button class="dropbtn">Projecten?</button>
+						<div class="dropdown-content">
+							<li><a href="#">Link een</a></li>
+							<li><a href="#">Link twee</a></li>
+							<li><a href="#">Link drie</a></li>
+							<li><a href="#">Link vier</a></li>
 						</div>
 					</div> 
 					
-				
+					<div class="dropdown">
+						<button class="dropbtn">Databases?</button>
+						<div class="dropdown-content">
+							<li><a href="#">Link een</a></li>
+							<li><a href="#">Link twee</a></li>
+							<li><a href="#">Link drie</a></li>
+							<li><a href="#">Link vier</a></li>
+						</div>
+					</div> 
 
-					
-
-
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PHP<span class="caret"></span></a>
+					<div class="dropdown">
+						<button class="dropbtn">Pauze</button>
+						<div class="dropdown-content">
+							<li><a href="https://www.youtube.com/" target="_blank">Youtube</a></li>
+							<li><a href="http://www.Surrenderat20.net/" target="_blank">Surrenderat20</a></li>
+						</div>
+					</div> 
+				<!--<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PHP2<span class="caret"></span></a>
 						<ul class="dropdown-menu">
 							<li><a href="opdrachtenphp/phpbegincursus/main.php" target="_blank"> Kerstboom </a></li>
 							<li><a href="opdrachtenphp/phpbegincursus/zwemclubs.php" target="_blank"> Zwemclubs </a> </li>
@@ -87,37 +110,7 @@
 							<li><a href="opdrachtenphp/phpbegincursus/class_method/index.php" target="_blank"> Object Oriented Programming </a></li>
 							<li><a href="opdrachtenphp/phpbegincursus/monkeybusiness/monkeybusiness.php" target="_blank"> Monkey Business </a></li>
 						</ul>
-					</li>
-
-
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projecten?<span class="caret"></span></a>
-						<ul class="dropdown-menu">
-							<li><a href="#">Link een</a></li>
-							<li><a href="#">Link twee</a></li>
-							<li><a href="#">Link drie</a></li>
-							<li><a href="#">Link vier</a></li>
-						</ul>
-					</li>
-
-
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Databases?<span class="caret"></span></a>
-						<ul class="dropdown-menu">
-							<li><a href="#">Link een</a></li>
-							<li><a href="#">Link twee</a></li>
-							<li><a href="#">Link drie</a></li>
-							<li><a href="#">Link vier</a></li>
-						</ul>
-					</li>
-
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pauze<span class="caret"></span></a>
-						<ul class="dropdown-menu">
-							<li><a href="https://www.youtube.com/" target="_blank">Youtube</a></li>
-							<li><a href="http://www.Surrenderat20enderat20.net/" target="_blank">Surrenderat20</a></li>
-						</ul>
-					</li>
+					</li> -->
 				</ul>
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="#">Login</a></li>

@@ -1,9 +1,25 @@
+<div id="wrapper">
+
+  <div id="header">
+  </div>
+  <!-- #header -->
+
+  <div id="content">
+  </div>
+  <!-- #content -->
+
+  <div id="footer">
+  </div>
+  <!-- #footer -->
+
+</div>
+<!-- #wrapper -->
 </body>
 <!-- Footer -->
 <footer class="footer-bs">
 	<div class="row">
 		<div class="col-md-3 footer-brand animated fadeInLeft">
-			<h3>Logo (WIP)</h3>
+			<img src="img/logo.jpg" alt="Logo">
 
 		</div>
 		<div class="col-md-6 footer-nav animated fadeInUp">

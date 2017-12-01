@@ -1,6 +1,8 @@
 html,body{
 	height: 100%;
 	background-image: url("img/background.jpg");
+	margin: 0;
+	padding: 0;
 }
 
 /* nav bar */
@@ -171,3 +173,13 @@ html,body{
 .dropdown:hover .dropbtn {
     background-color: #060606;
 } 
+
+#wrapper {
+  min-height: 100%;
+  position: relative;
+}
+
+#content {
+  padding-bottom: 100px;
+  /* Height of the footer element */
+}

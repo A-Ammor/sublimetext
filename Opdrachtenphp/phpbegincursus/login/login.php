@@ -5,6 +5,7 @@ $users = array(
 	"anwar" => array("ww" => "1", "rol" => "admin"), 
 	"nadim" => array("ww" => "2", "rol" => "admin"), 
 	"harjit" => array("ww" => "3", "rol" => "gebruiker"), 
+	"joey" => array("ww" => "4", "rol" => "admin"),
 	);
 
 if (isset($_POST['knop'])
@@ -18,11 +19,17 @@ $message = "Welkom " . $_SESSION["user"]["naam"] . " met de rol " . $_SESSION["u
 	$message = "Login";
 }
 
-if (isset($_POST['knop']) 
-	&& $users[$_POST["login"]]["ww"] != $_POST["ww"]) {
-	$foutmelding = "Sorry, onjuiste wachtwoord.";
+
+
+if (isset($_POST['knop']) && ($_POST["login"]) != "anwar" && ($_POST["login"]) != "harjit" && ($_POST["login"]) != "nadim" && ($_POST["login"]) != "joey") {
+	$foutmelding = "Gebruiker niet gevonden.";
+} else {
+	if (isset($_POST['knop']) 
+		&& $users[$_POST["login"]]["ww"] != $_POST["ww"]) {
+		$foutmelding = "Sorry, onjuiste wachtwoord.";
 } else {
 	$foutmelding = "";
+}
 }
 
 if (isset($_GET["loguit"])) {
@@ -33,6 +40,10 @@ if (isset($_GET["loguit"])) {
 if (isset($_SESSION["user"]["naam"])) {
 	print_r($_SESSION);
 }
+
+
+
+
 ?>
 
 <!DOCTYPE html>
