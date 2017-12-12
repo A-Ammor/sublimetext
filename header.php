@@ -64,7 +64,7 @@
 							<li><a href="opdrachtenphp/phpbegincursus/login/login.php" target="_blank"> Login Pagina </a></li>
 							<li><a href="opdrachtenphp/phpbegincursus/class_method/index.php" target="_blank"> Object Oriented Programming </a></li>
 							<li><a href="opdrachtenphp/phpbegincursus/monkeybusiness/monkeybusiness.php" target="_blank"> Monkey Business </a></li>
-							<li><a href="opdrachtenphp/phpbegincursus/mrwheely/mrhweely.php" target="_blank"> Mr Wheely </a></li>
+							<li><a href="opdrachtenphp/phpbegincursus/mrwheely/index.php" target="_blank"> Mr Wheely </a></li>
 						</div>
 					</div> 
 
