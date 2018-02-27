@@ -109,7 +109,7 @@ if(isset($_POST["maxPrice"])){
 
   <div class="container">
     <div class="content">
-      <form action="mrwheely.php" method="POST">
+      <form action="index.php" method="POST">
         <div class="form-group">
           <label for="brandSelect">Merk</label>
           <select id="brandSelect" class="form-control" name="brand">

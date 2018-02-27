@@ -64,7 +64,7 @@
 							<li><a href="opdrachtenphp/phpbegincursus/login/login.php" target="_blank"> Login Pagina </a></li>
 							<li><a href="opdrachtenphp/phpbegincursus/class_method/index.php" target="_blank"> Object Oriented Programming </a></li>
 							<li><a href="opdrachtenphp/phpbegincursus/monkeybusiness/monkeybusiness.php" target="_blank"> Monkey Business </a></li>
-							<li><a href="opdrachtenphp/phpbegincursus/mrwheely/mrhweely.php" target="_blank"> Mr Wheely </a></li>
+							<li><a href="opdrachtenphp/phpbegincursus/mrwheely/index.php" target="_blank"> Mr Wheely </a></li>
 						</div>
 					</div> 
 
@@ -81,9 +81,20 @@
 					<div class="dropdown">
 						<button class="dropbtn">Databases?</button>
 						<div class="dropdown-content">
-							<li><a href="#">Link een</a></li>
+							<li><a href="database/OOPHP_PDO/index.php">OOPHP / PDO</a></li>
 							<li><a href="#">Link twee</a></li>
 							<li><a href="#">Link drie</a></li>
+							<li><a href="#">Link vier</a></li>
+						</div>
+					</div> 
+
+					<div class="dropdown">
+						<button class="dropbtn">Stage</button>
+						<div class="dropdown-content">
+							<li><a href="stage/TCPDF-master/portfolio_short.php">Port_sh</a></li>
+							<li><a href="stage/TCPDF-master/portfolio_extended.php">Port_ex</a></li>
+							<li><a href="#">PHP</a></li>
+							<li><a href="#">Site</a></li>
 							<li><a href="#">Link vier</a></li>
 						</div>
 					</div> 

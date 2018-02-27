@@ -4,12 +4,10 @@ class Car {
     var $image;
     var $price;
     
-    
     function __construct($brand, $price, $image) {
         $this->brand = $brand;
         $this->price = $price;
         $this->image = $image;
-
     }
     
     function getImageName(){
