@@ -91,8 +91,9 @@
 					<div class="dropdown">
 						<button class="dropbtn">Stage</button>
 						<div class="dropdown-content">
-							<li><a href="stage/TCPDF-master/portfolio_short.php">Port_sh</a></li>
-							<li><a href="stage/TCPDF-master/portfolio_extended.php">Port_ex</a></li>
+							<li><a href="Stage/TCPDF-master/portfolio_short.php">Port_sh</a></li>
+							<li><a href="Stage/TCPDF-master/portfolio_extended.php">Port_ex</a></li>
+							<li><a href="Stage/Manager/skeleton.php">Manager Site</a></li>
 							<li><a href="#">PHP</a></li>
 							<li><a href="#">Site</a></li>
 							<li><a href="#">Link vier</a></li>
